@@ -14,13 +14,14 @@ This technical interview focuses on implementing Chain of Thought (CoT) reasonin
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/yourusername/amazon-earnings-rag-frontend
-   cd amazon-earnings-rag-frontend
+   git clone https://github.com/UniversalAGI/tech-interview-multi-modal-cot
+   cd tech-interview-multi-modal-cot
    ```
 
 2. **Install Dependencies:**
 
    ```
+   cd web
    npm install
    ```
 
